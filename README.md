@@ -32,5 +32,5 @@ python KneeUpAnalysis.py
 - change the path to save video file
 
 ```
-python Video-Generate 
+python Video-Generate.py
 ```
